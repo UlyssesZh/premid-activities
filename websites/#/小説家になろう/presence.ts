@@ -4,7 +4,7 @@ const presence = new Presence({
   clientId: '1568839930954916004',
 })
 
-const LOGO = 'https://raw.githubusercontent.com/pachiris/Activities/premid-assets/syosetu/logo.png'
+const LOGO = 'https://cdn.rcd.gg/PreMiD/websites/%23/%E5%B0%8F%E8%AA%AC%E5%AE%B6%E3%81%AB%E3%81%AA%E3%82%8D%E3%81%86/assets/logo.png'
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 let readingKey = ''
